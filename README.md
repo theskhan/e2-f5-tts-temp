@@ -1,4 +1,4 @@
-# e2-f5-tts
+# e2-f5-tts-hi
 
-A pinokio script for https://huggingface.co/spaces/mrfakename/E2-F5-TTS
+A pinokio script for https://github.com/theskhan/F5-TTS-HI
 
